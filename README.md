@@ -4,7 +4,7 @@
 - 🔭 I’m currently a grad student at  [ODU CS](https://www.odu.edu/compsci)!
 - 🌱 I’m currently part of [Web Science and Digital Libraries](https://ws-dl.cs.odu.edu/) Research Group
 - 🥅 2020 Goals: Contribute more
-- ⚡ Fun fact: I love to do photography and cycling
+- ⚡ Hobbies: I love to do photography and cycling
 
 ### Connect with me:
 
