@@ -19,5 +19,10 @@
 <br />
 
 <img align="left" alt="Javedul Ferdous's Github Stats" src="https://github-readme-stats.vercel.app/api?username=javedulferdous&show_icons=true&hide_border=true&theme=radical" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javedulferdous&layout=compact)](https://github.com/javedulferdous/github-readme-stats)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javedulferdous&layout=compact)]
 
