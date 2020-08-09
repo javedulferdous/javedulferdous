@@ -18,7 +18,7 @@
 
 <br />
 
-<img align="left" alt="Javedul Ferdous's Github Stats" src="https://github-readme-stats.vercel.app/api?username=javedulferdous&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Javedul Ferdous's Github Stats" src="https://github-readme-stats.vercel.app/api?username=javedulferdous&show_icons=true&hide_border=true&theme=blue" />
 
 <br />
 <br /><br />
