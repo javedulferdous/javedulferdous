@@ -1,5 +1,5 @@
 ### Hello World, 
-### I'm Md Javedul Ferdous - aka [Javed](https://www.cs.odu.edu/~mferdous/)!
+### I'm Md Javedul Ferdous - aka [Javed](https://www.cs.odu.edu/~cs_mferd002/)!
 
 - 🔭 I’m currently a PhD student at  [ODU CS](https://www.odu.edu/compsci)!
 - 🌱 I’m currently part of the [Web Science and Digital Libraries](https://ws-dl.cs.odu.edu/) Research Group.
