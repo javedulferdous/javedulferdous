@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.cs.odu.edu/~cs_mferd002/">Personal Website</a> • 
-  <a href="https://scholar.google.com/citations?user=1gHqPl8AAAAJ">Google Scholar</a> • 
+  <a href="https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en">Google Scholar</a> • 
   <a href="https://www.linkedin.com/in/javedulferdous/">LinkedIn</a> • 
   <a href="https://twitter.com/jaf_ferdous">Twitter/X</a> • 
   <a href="https://ws-dl.cs.odu.edu/">WS-DL Group</a>
@@ -52,7 +52,7 @@ My research bridges **Human–Computer Interaction (HCI)** and **Artificial Inte
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/atferdous)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jaf_ferdous)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/javedulferdous/)
-[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />]([https://scholar.google.com/citations?user=_cuPy0wAAAAJ](https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en))
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en)  
 
 <br clear="left"/>
 
